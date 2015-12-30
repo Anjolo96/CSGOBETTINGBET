@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         CSGODouble Betting BOT
 // @namespace    
-// @version      2.0
+// @version      3.0
 // @description  Getting RICH... Getting kid.
 // @author       Maximum Intellectus
 // @match        http://www.csgodouble.com/index.php
+// @UpdateURL        https://github.com/Diablosito33/CSGOBETTINGBET/edit/master/README.txt
+// @DownloadURL        https://github.com/Diablosito33/CSGOBETTINGBET/edit/master/README.txt
 // @grant        none
 // ==/UserScript==
 /* jshint -W097 */
