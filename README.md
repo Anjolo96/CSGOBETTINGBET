@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CSGODouble Betting BOT
 // @namespace    
-// @version      1.0
+// @version      2.0
 // @description  Getting RICH... Getting kid.
 // @author       Maximum Intellectus
 // @match        http://www.csgodouble.com/index.php
